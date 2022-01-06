@@ -1,0 +1,134 @@
+body{
+    margin: 0;
+    font-family: 'Baloo Bhai 2', cursive;
+}
+
+.flexible-container{
+    display: flex;
+    margin-bottom: 80px;
+}
+
+.half-width{
+    width: 50%;
+    padding: 5%;
+    padding-left: 10%;
+    padding-top: 5%;
+}
+
+.half-width img{
+    width: 100%;
+    margin-top: -60px;
+}
+
+
+h1{
+    font-size: 50px;
+    font-weight: 700;
+    
+}
+
+h2{
+    font-size: 40px;
+    font-weight: 700;
+}
+
+h3{
+    font-size: 30px;
+    font-weight: 700;
+}
+
+p{
+    font-size: 16px;
+}
+.orange-color{
+    color: orange;
+}
+
+.focused{
+    padding-left: 3%;
+    border-radius: 5px;
+    border-left: 5px solid #ff7878;
+}
+
+.link-btn{
+    padding: 10px 30px;
+    text-decoration: none;
+    border-radius: 5px;
+    color: #fff;
+    background-color: #ff5959;
+}
+
+.misson{
+    display: flex;
+    justify-content: space-between;
+}
+
+.my-misson-section h2{
+    text-align: center;
+    font-size: 40px;
+}
+
+.misson-box{
+    width: 33%;
+    margin: 2%;
+    padding: 20px 25px;
+    border-radius: 10px;
+}
+
+.misson-box h3{
+    font-size: 25px;
+}
+.misson-box img{
+    width: 40%;
+    height: 50%;
+}
+
+#misson{
+    background: #edf5f6;
+}
+
+#visson{
+    background: #ffeeee;
+}
+
+#goals{
+    background: #fff4d6;
+}
+
+.develop{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 28%;
+}
+
+.global-section{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-size: 15%;
+}
+
+.app{
+    background-image: url(images/shapes/shape-3.png);
+    background-repeat: no-repeat;
+    background-position: right top; 
+    background-size: 25%;
+}
+
+.corona-heading{
+    text-align: center;
+}
+footer{
+    background-color: black;
+    color: white;
+    padding: 20px 40px;
+    width: 100%;
+    text-align: center;
+}
+
+
+
+.red-color{
+    color: red;
+}
