@@ -60,7 +60,7 @@ p{
 
 .misson{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
 }
 
 .misson-box{
